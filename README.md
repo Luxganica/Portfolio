@@ -64,6 +64,24 @@ Some of my 3D works:
   </tr>
 </table>
 
+>Stylized alchemic symbol of the anime Fullmetal Alchemist:
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/8VV3XNTIiT0">
+        <img src="https://github.com/user-attachments/assets/23afbab6-c5ed-42b7-9f18-83650ce23a74" width="400">
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7ccc7adc-0373-42d2-919f-31c7e27f69be" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2a57c3c4-9e26-41bc-aabd-edb9f7387efd" width="400">
+    </td>
+  </tr>
+</table>
+
 >Accurate reproduction of a gym bench with its parts:
 
 <table align="center">
