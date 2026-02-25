@@ -30,11 +30,23 @@ Some of my 3D works:
 
 >Artistic animated reproduction of the "Prison Realm" cube from the anime JujutsuKaisen:
 
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/rj65SaNp0WA">
+        <img src="media/jjkcubethumb.jpg" width="400">
+      </a>
+    </td>
+    <td>
+      ![jjkcubegif-ezgif com-gif-to-mp4-converter - frame at 0m2s](https://github.com/user-attachments/assets/645c8164-a55c-4662-9a3f-0c1bb768b9d0)
+    </td>
+    <td>
+      <img width="2098" height="1335" alt="cubejjktopo" src="https://github.com/user-attachments/assets/06e8b8d5-756f-40c3-beb4-5a10ffae45ef" />
+    </td>
+  </tr>
+</table>
 
 >Accurate reproduction of a gym bench with its parts:
-
-<p align="center"></p>
 
 <table align="center">
   <tr>
