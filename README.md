@@ -30,7 +30,7 @@ Some of my 3D works:
 
 >Accurate reproduction of a gym bench with its parts:
 
-<p align="center"><b>🎨 Progetto Panca</b></p>
+<p align="center"></p>
 
 <table align="center">
   <tr>
