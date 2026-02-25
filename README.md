@@ -46,6 +46,24 @@ Some of my 3D works:
   </tr>
 </table>
 
+>Accurate reproduction of the "Keyblade" weapon from the game Kingdom Hearts:
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/rj65SaNp0WA">
+        <img src="media/jjkcubethumb.jpg" width="400">
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/144b70fa-bef7-4b8f-9f65-c2b14266de79" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/06e8b8d5-756f-40c3-beb4-5a10ffae45ef" width="400">
+    </td>
+  </tr>
+</table>
+
 >Accurate reproduction of a gym bench with its parts:
 
 <table align="center">
