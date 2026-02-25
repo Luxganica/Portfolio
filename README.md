@@ -99,3 +99,23 @@ Some of my 3D works:
     </td>
   </tr>
 </table>
+
+3D works with videos from DaVinci post-production:
+
+>Animation with burn effect of a "hollow mask" from the anime Bleach:
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/bhuUtcRxjE0">
+        ![Timeline 13 - frame at 0m2s (1)](https://github.com/user-attachments/assets/757bbe97-0ec8-4b65-b6b1-c653fdf4e780)
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/257d0693-1040-42b9-b917-4c370c720ce9" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8c651be5-b161-4567-a6ee-3ffaaf2ca023" width="400">
+    </td>
+  </tr>
+</table>
