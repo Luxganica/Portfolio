@@ -108,14 +108,12 @@ Some of my 3D works:
   <tr>
     <td>
       <a href="https://youtu.be/bhuUtcRxjE0">
-        ![Timeline 13 - frame at 0m2s (1)](https://github.com/user-attachments/assets/757bbe97-0ec8-4b65-b6b1-c653fdf4e780)
+        <img src="media/maskthumb.jpg" width="400">
       </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/257d0693-1040-42b9-b917-4c370c720ce9" width="400">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/8c651be5-b161-4567-a6ee-3ffaaf2ca023" width="400">
+      ![WhatsApp Image 2026-02-25 at 07 07 06](https://github.com/user-attachments/assets/5df49809-efc7-471d-8801-87d8d8f5d722)
+
     </td>
   </tr>
 </table>
