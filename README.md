@@ -5,7 +5,7 @@ Gianluca Destro – Game Developer, Web Developer, 3D Artist, Video Maker
 
 This is a fan game (so i couldn't publish it for obvoius copyright reasons) of final fantasy created by me some years ago (no AI used since it wasn't a thing at that time), if you are interested in the build to play it contact me:
 
-https://youtu.be/LS58DMh7o3c
+![FFfaAction - frame at 0m7s](https://github.com/user-attachments/assets/d9405486-4349-431d-b97a-50169f2219c9)(https://youtu.be/LS58DMh7o3c)
 
 The team to challenge the final boss can be composed of 1 to 3 characters of your choice (5 available). Each character has its own skills and unique mechanics. The boss is very hard and will go through 3 phases.
 
