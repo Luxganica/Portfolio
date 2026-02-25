@@ -34,4 +34,6 @@ Some of my 3D works:
   <a href="https://youtu.be/XtUgo_94bsU">
     <img src="media/pancathumb.jpg" width="400">
   </a>
+  <img width="1920" height="1080" alt="pancarender" src="https://github.com/user-attachments/assets/257d0693-1040-42b9-b917-4c370c720ce9" />
+  <img width="2560" height="1494" alt="panca" src="https://github.com/user-attachments/assets/bc67d037-849d-4f74-91fd-29085366b140" />
 </p>
