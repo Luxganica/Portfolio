@@ -112,8 +112,7 @@ Some of my 3D works:
       </a>
     </td>
     <td>
-      ![WhatsApp Image 2026-02-25 at 07 07 06](https://github.com/user-attachments/assets/5df49809-efc7-471d-8801-87d8d8f5d722)
-
+        <img src="media/hollowmask.jpeg" width="400">
     </td>
   </tr>
 </table>
