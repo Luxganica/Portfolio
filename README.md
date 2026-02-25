@@ -23,9 +23,15 @@ Games:
   </a>
 </p>
 
->keeping the coherence between all different dungeon pieces while keeping the flexibily and a sufficent "big" dimension of the dungeon was the challenge here. all the mobs and the mini boss have a rng system to choose each time a skill to use from their sets. The currency earned while progressing in the dungeon can be used in the shop or converted to skill unlocking points for the final boss RPG mode.
+>Keeping the coherence between all different dungeon pieces while keeping the flexibily and a sufficent "big" dimension of the dungeon was the challenge here. all the mobs and the mini boss have a rng system to choose each time a skill to use from their sets. The currency earned while progressing in the dungeon can be used in the shop or converted to skill unlocking points for the final boss RPG mode.
 
 
-3D art:
+Some of my 3D works:
 
->
+>Accurate reproduction of a gym bench with its parts:
+
+<p align="center">
+  <a href="https://youtu.be/XtUgo_94bsU">
+    <img src="media/pancathumb.jpg" width="400">
+  </a>
+</p>
