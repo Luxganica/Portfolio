@@ -28,7 +28,7 @@ Games:
 
 Some of my 3D works:
 
->Artistic animated reproduction of the "Prison Realm" cube from the anime JujutsuKaisen:
+>Accurate reproduction of the "Keyblade" weapon from the game Kingdom Hearts:
 
 <table align="center">
   <tr>
@@ -46,7 +46,7 @@ Some of my 3D works:
   </tr>
 </table>
 
->Accurate reproduction of the "Keyblade" weapon from the game Kingdom Hearts:
+>Artistic animated reproduction of the "Prison Realm" cube from the anime JujutsuKaisen:
 
 <table align="center">
   <tr>
