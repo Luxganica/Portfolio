@@ -25,8 +25,45 @@ Games:
 
 >Keeping the coherence between all different dungeon pieces while keeping the flexibily and a sufficent "big" dimension of the dungeon was the challenge here. all the mobs and the mini boss have a rng system to choose each time a skill to use from their sets. The currency earned while progressing in the dungeon can be used in the shop or converted to skill unlocking points for the final boss RPG mode.
 
+3D works with videos from DaVinci post-production:
 
-Some of my 3D works:
+>Short movie animation of the anime Fullmetal Alchemist:
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/fepdn0LU0E8">
+        <img src="media/fmamoviethumb.jpg" width="400">
+      </a>
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/5eec1473-7b55-47b8-a848-042ad55c0764" width="400">
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/215d4768-ccf3-425d-9a08-a417bd9402ab" width="400">
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/e47c43e9-e2b2-45cd-a3fa-695f480cf4b1" width="400">
+    </td>
+  </tr>
+</table>
+
+>Animation with burn effect of a "hollow mask" from the anime Bleach:
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://youtu.be/bhuUtcRxjE0">
+        <img src="media/maskthumb.jpg" width="400">
+      </a>
+    </td>
+    <td>
+        <img src="media/hollowmask.jpeg" width="400">
+    </td>
+  </tr>
+</table>
+
+Some of my other 3D works:
 
 >Accurate reproduction of the "Keyblade" weapon from the game Kingdom Hearts:
 
@@ -96,44 +133,6 @@ Some of my 3D works:
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/8c651be5-b161-4567-a6ee-3ffaaf2ca023" width="400">
-    </td>
-  </tr>
-</table>
-
-3D works with videos from DaVinci post-production:
-
->Animation with burn effect of a "hollow mask" from the anime Bleach:
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://youtu.be/bhuUtcRxjE0">
-        <img src="media/maskthumb.jpg" width="400">
-      </a>
-    </td>
-    <td>
-        <img src="media/hollowmask.jpeg" width="400">
-    </td>
-  </tr>
-</table>
-
->Short movie animation of the anime Fullmetal Alchemist:
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://youtu.be/fepdn0LU0E8">
-        <img src="media/fmamoviethumb.jpg" width="400">
-      </a>
-    </td>
-    <td>
-        <img src="https://github.com/user-attachments/assets/5eec1473-7b55-47b8-a848-042ad55c0764" width="400">
-    </td>
-    <td>
-        <img src="https://github.com/user-attachments/assets/215d4768-ccf3-425d-9a08-a417bd9402ab" width="400">
-    </td>
-    <td>
-        <img src="https://github.com/user-attachments/assets/e47c43e9-e2b2-45cd-a3fa-695f480cf4b1" width="400">
     </td>
   </tr>
 </table>
