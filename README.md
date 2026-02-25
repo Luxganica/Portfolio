@@ -123,8 +123,7 @@ Some of my 3D works:
   <tr>
     <td>
       <a href="https://youtu.be/fepdn0LU0E8">
-        ![fmatruthfinal - frame at 0m52s (1)](https://github.com/user-attachments/assets/09cdbc74-2df9-4f54-a152-0d573d76292f)
-
+        <img src="media/fmamoviethumb.jpg" width="400">
       </a>
     </td>
     <td>
