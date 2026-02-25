@@ -28,6 +28,10 @@ Games:
 
 Some of my 3D works:
 
+>Artistic animated reproduction of the "Prison Realm" cube from the anime JujutsuKaisen:
+
+
+
 >Accurate reproduction of a gym bench with its parts:
 
 <p align="center"></p>
