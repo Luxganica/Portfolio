@@ -7,7 +7,7 @@ This is a fan game (so i couldn't publish it for obvoius copyright reasons) of f
 
 <p align="center">
   <a href="https://youtu.be/LS58DMh7o3c">
-    <img src="media/thumb2.jpg" width="200">
+    <img src="media/thumb2.jpg" width="400">
   </a>
 </p>
 
