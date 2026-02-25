@@ -37,8 +37,8 @@ Some of my 3D works:
         <img src="media/jjkcubethumb.jpg" width="400">
       </a>
     </td>
-    <td>
-      ![jjkcubegif-ezgif com-gif-to-mp4-converter - frame at 0m2s](https://github.com/user-attachments/assets/645c8164-a55c-4662-9a3f-0c1bb768b9d0)
+    <td>![jjkcubegif-ezgif com-gif-to-mp4-converter - frame at 0m2s (1)](https://github.com/user-attachments/assets/289f652d-17d1-41b4-85d7-e14e770b4e7b)
+
     </td>
     <td>
       <img width="2098" height="1335" alt="cubejjktopo" src="https://github.com/user-attachments/assets/06e8b8d5-756f-40c3-beb4-5a10ffae45ef" />
