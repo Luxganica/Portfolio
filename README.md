@@ -2,7 +2,7 @@
 
 Gianluca Destro – Game Developer, Web Developer, 3D Artist, Video Maker
 
-
+Games:
 >This is a fan game (so i couldn't publish it for obvoius copyright reasons) of final fantasy created by me some years ago (no AI used since it wasn't a thing at that time), if you are interested in the build to play it contact me:
 
 <p align="center">
@@ -24,3 +24,8 @@ Gianluca Destro – Game Developer, Web Developer, 3D Artist, Video Maker
 </p>
 
 >keeping the coherence between all different dungeon pieces while keeping the flexibily and a sufficent "big" dimension of the dungeon was the challenge here. all the mobs and the mini boss have a rng system to choose each time a skill to use from their sets. The currency earned while progressing in the dungeon can be used in the shop or converted to skill unlocking points for the final boss RPG mode.
+
+
+3D art:
+
+>
