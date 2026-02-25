@@ -127,7 +127,13 @@ Some of my 3D works:
       </a>
     </td>
     <td>
-        <img src="media/hollowmask.jpeg" width="400">
+        <img src="https://github.com/user-attachments/assets/5eec1473-7b55-47b8-a848-042ad55c0764" width="400">
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/215d4768-ccf3-425d-9a08-a417bd9402ab" width="400">
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/e47c43e9-e2b2-45cd-a3fa-695f480cf4b1" width="400">
     </td>
   </tr>
 </table>
