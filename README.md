@@ -43,7 +43,7 @@ Some of my 3D works:
       <img src="https://github.com/user-attachments/assets/257d0693-1040-42b9-b917-4c370c720ce9" width="400">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/bc67d037-849d-4f74-91fd-29085366b140" width="400">
+      <img src="https://github.com/user-attachments/assets/8c651be5-b161-4567-a6ee-3ffaaf2ca023" width="400">
     </td>
   </tr>
 </table>
