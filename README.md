@@ -33,15 +33,15 @@ Some of my 3D works:
 <table align="center">
   <tr>
     <td>
-      <a href="https://youtu.be/rj65SaNp0WA">
-        <img src="media/jjkcubethumb.jpg" width="400">
+      <a href="https://youtu.be/1GxynLgx3sU">
+        <img src="media/keybladethumb.jpg" width="400">
       </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/144b70fa-bef7-4b8f-9f65-c2b14266de79" width="400">
+      <img src="https://github.com/user-attachments/assets/25bab839-bbac-4f05-ae51-5527205990c2" width="400">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/06e8b8d5-756f-40c3-beb4-5a10ffae45ef" width="400">
+      <img src="https://github.com/user-attachments/assets/8cb104e3-2cd0-4190-b703-584bf23833ce" width="400">
     </td>
   </tr>
 </table>
