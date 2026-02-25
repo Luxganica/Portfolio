@@ -17,6 +17,10 @@ My challenge in this part of the game was to make everything chain smoothly, act
 
 This one instead is the action part of the game with a procedural generated dungeon to make every run different, currency systems, shop, mobs and mini boss to defeat 3 times before reaching the final battle against Sephiroth:
 
-https://youtu.be/Ctteroa0jmU
+<p align="center">
+  <a href="https://youtu.be/Ctteroa0jmU">
+    <img src="media/thumb3.jpg" width="400">
+  </a>
+</p>
 
 keeping the coherence between all different dungeon pieces while keeping the flexibily and a sufficent "big" dimension of the dungeon was the challenge here. all the mobs and the mini boss have a rng system to choose each time a skill to use from their sets. The currency earned while progressing in the dungeon can be used in the shop or converted to skill unlocking points for the final boss RPG mode.
