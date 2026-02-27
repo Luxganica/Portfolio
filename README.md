@@ -1,6 +1,6 @@
 # Portfolio
 
-## Gianluca Destro – Game Developer, Web Developer, 3D Artist, Video Maker
+## Gianluca Destro – Fullstack Developer, Game Developer, 3D Artist, Video Maker
 
 ## Games:
 >This is a fan game (so i couldn't publish it for obvious copyright reasons) of final fantasy created by me some years ago (no AI used since it wasn't a thing at that time), if you are interested in the build to play it contact me:
